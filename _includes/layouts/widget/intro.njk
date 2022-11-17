@@ -1,0 +1,19 @@
+<div class="row mt-5">
+  <div class="col-md-8 p-3">
+    <header>
+      <h1 class="home">
+        <a href="{{ '/' | url }}">{{ metadata.title }}</a>
+      </h1>
+      <h2>{{ metadata.description }}</h2>
+      <p>{{ intro.intro }}</p>
+    </header>
+  </div>
+  <div class="col-md-4">
+    <div class="p-3 text-center">
+      <div class="p-3 black images">
+        <img class="images" src="{{intro.cover_image}}" />
+      </div>
+      <p class="p-3 text-light">{{intro.cover_intro}}</p>
+    </div>
+  </div>
+</div>
