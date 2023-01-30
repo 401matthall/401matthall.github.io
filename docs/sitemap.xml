@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>https://401matthall.github.io/</loc>
-    <lastmod>2022-11-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://401matthall.github.io/page-list/</loc>
     <lastmod>2022-11-16</lastmod>
   </url>
@@ -32,6 +27,11 @@
   </url>
   
   <url>
+    <loc>https://401matthall.github.io/tags/first/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://401matthall.github.io/tags/autism/</loc>
     <lastmod>2023-01-30</lastmod>
   </url>
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://401matthall.github.io/tags/first/</loc>
+    <loc>https://401matthall.github.io/</loc>
     <lastmod>2023-01-30</lastmod>
   </url>
 </urlset>
