@@ -1,7 +1,7 @@
 ---
 title: First!
-description: 
-date: 2023-01-30
+description: An introductory post; I'm sorry in advance.
+date: 2023-01-28
 tags:
   - first
 layout: layouts/post.njk
