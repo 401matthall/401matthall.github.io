@@ -4,7 +4,7 @@ body {
   background-color: rgb(19, 20, 2);
 }
 .navi {
-  background-color: rgb(247, 49, 59);
+  background-color: rgb(49, 118, 247, 0.6);
   font-family: 'Ubuntu Condensed', sans-serif;
   border-radius: 50px 50px;
 }
@@ -69,11 +69,16 @@ a:visited,
 a:active,
 a:hover,
 a:link {
-  color: rgb(247, 49, 59);
+  color: rgb(49, 118, 247, 0.6);
   text-decoration: none;
 }
 .danger {
   background-color: rgb(247, 49, 59);
+  border-radius: 50px 50px;
+  padding: 20px;
+}
+.info {
+  background-color: rgba(49, 118, 247, 0.6);
   border-radius: 50px 50px;
   padding: 20px;
 }
@@ -83,7 +88,7 @@ a:link {
   padding: 20px;
 }
 .posting {
-  background-color: rgb(54, 17, 102);
+  background-color: rgb(49, 118, 247, 0.3);
   border-radius: 50px 50px;
   padding: 20px;
 }
