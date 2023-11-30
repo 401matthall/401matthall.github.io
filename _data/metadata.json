@@ -7,13 +7,12 @@
   "googleverification": "fytLKQs-Ev-WF_tfe7qXKdtht7emwAKbeeV3a_HuT7s",
   "feed": {
     "subtitle": "401matthall's blerg.",
-    "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://401matthall.github.io/"
+    "url": "https://401matthall.github.io/feed.xml"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://401matthall.github.io/feed/feed.json"
+    "url": "https://401matthall.github.io/feed.json"
   },
   "author": {
     "name": "Matt Hall",
