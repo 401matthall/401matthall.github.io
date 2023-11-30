@@ -1,6 +1,6 @@
 {
   "title": "401matthall",
-  "url": "https://401matthall.github.io/",
+  "url": "https://401matthall.com/",
   "language": "en",
   "description": "A blerg",
   "favicon": "/img/favicon-32x32.png",
@@ -8,15 +8,15 @@
   "feed": {
     "subtitle": "401matthall's blerg.",
     "path": "/feed/feed.xml",
-    "url": "https://401matthall.github.io/feed.xml"
+    "url": "https://401matthall.com/feed.xml"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://401matthall.github.io/feed.json"
+    "url": "https://401matthall.com/feed.json"
   },
   "author": {
     "name": "Matt Hall",
     "email": "401matthall@gmail.com",
-    "url": "https://401matthall.github.io"
+    "url": "https://401matthall.com"
   }
 }
