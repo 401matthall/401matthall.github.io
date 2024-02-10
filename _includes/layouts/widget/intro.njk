@@ -6,6 +6,7 @@
       </h1>
       <h2>{{ metadata.description }}</h2>
       <p>{{ intro.intro }}</p>
+      <p></p>
     </header>
   </div>
   <div class="col-md-4">
@@ -13,7 +14,11 @@
       <div class="p-3 black images">
         <img class="images" src="{{intro.cover_image}}" />
       </div>
-      <p class="p-3 text-light">{{intro.cover_intro}}</p>
+      <p class="p-3 text-light">
+        {{intro.cover_intro}}
+        <br>
+        <a href="{{ intro.cover_link_1.http }}">{{ intro.cover_link_1.text }}</a>
+      </p>
     </div>
   </div>
 </div>

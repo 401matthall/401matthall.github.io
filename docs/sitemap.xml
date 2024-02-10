@@ -27,17 +27,22 @@
   </url>
   
   <url>
-    <loc>https://401matthall.com/tags/first/</loc>
-    <lastmod>2023-01-30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://401matthall.com/tags/autism/</loc>
-    <lastmod>2023-01-30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://401matthall.com/tags/being-me/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/tags/code/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/tags/coding/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/tags/problem-solving/</loc>
     <lastmod>2023-01-30</lastmod>
   </url>
   
@@ -47,7 +52,22 @@
   </url>
   
   <url>
+    <loc>https://401matthall.com/tags/autism/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/tags/first/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://401matthall.com/</loc>
     <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/posts/i_dont_like_writing_code/</loc>
+    <lastmod>2024-02-10</lastmod>
   </url>
 </urlset>

@@ -1,6 +1,6 @@
 ---
 title: It's the cognition, stupid.
-description: Why shortcuts and complex key-combos don't save me time.
+description: Why shortcuts and key-combos don't save me time.
 date: 2023-01-30
 tags:
   - autism
@@ -20,5 +20,3 @@ Thinking is a from-scratch exercise most of the time, at least it is for me. In 
 What does it mean for how *I* work and how I'll work in the future? It means I probably won't try to learn new physical patterns to speed up my work. I find the majority of my work is cognitive. Additionally, I'm not certain working faster is to my benefit and probably not to the benefit of whatever I'm working on.
 
 Does this mean that shortcuts and key-combos are bad? Of course, that's what it means. Shortcut and key-combo users are bad people, they don't give their pets the love and attention they need, and they chew gum while talking in a conference call.
-
-[@401matthall](https://twitter.com/401matthall)

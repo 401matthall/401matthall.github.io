@@ -11,7 +11,7 @@
     "url": "https://401matthall.com/feed/"
   },
   "jsonfeed": {
-    "path": "/feed/feed.json",
+    "path": "/feed.json",
     "url": "https://401matthall.com/feed.json"
   },
   "author": {
