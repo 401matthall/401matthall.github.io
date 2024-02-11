@@ -5,7 +5,7 @@
 	
 	<link href="https://401matthall.com/feed.xml" rel="self"/>
 	<link href="https://401matthall.com/"/>
-	<updated>2024-02-10T00:00:00Z</updated>
+	<updated>2024-02-11T00:00:00Z</updated>
 	<id></id>
 	<author>
 		<name>Matt Hall</name>
@@ -13,10 +13,21 @@
 	</author>
 	
 	<entry>
+		<title>Game Design as it applies to Application Design</title>
+		<link href="https://401matthall.com/posts/game-design-as-software-design/"/>
+		<updated>2024-02-11T00:00:00Z</updated>
+		<id>https://401matthall.com/posts/game-design-as-software-design/</id>
+		<content type="html">&lt;p&gt;I play &lt;em&gt;a lot&lt;/em&gt; of computer games. I&#39;m not a &#39;mainstream&#39; gamer but I play &lt;em&gt;a lot&lt;/em&gt; of video games. I have literally spent thousands of hours playing games. Particularlly the ones that are made up of simple, clear systems that allow for &lt;a href=&quot;https://en.wikipedia.org/wiki/Emergent_gameplay&quot;&gt;emergent gameplay&lt;/a&gt;. I love the systems in simulations. I love tinkering and modding those games to push the systems to their limits. I love watching systems interact with each other. Sometimes I think of it as a digital ant farm.&lt;/p&gt;
+&lt;p&gt;At some point the, obvious-in-hindsight, idea occurs to me that game design and application design borrow from each other heavily. There&#39;s probably a &lt;em&gt;heap&lt;/em&gt; of value to be gained by understanding game design. Like many software developers and engineers I know, I got into software to create things. Simulated systems and games were definitely on that list. I simply never studied game design before. To that point, I&#39;ve barely scratched the surface of studying application design.&lt;/p&gt;
+&lt;p&gt;I&#39;ve decided to really live in the space of life-long learning. This week I picked up a copy of &lt;a href=&quot;https://tynansylvester.com/book/&quot;&gt;Designing Games: A Guide to Engineering Experiences&lt;/a&gt; by &lt;a href=&quot;https://tynansylvester.com/&quot;&gt;Tynan Sylvester&lt;/a&gt;. If you&#39;ve never heard of Tynan Sylvester that&#39;s alright. The internet is a big place. He&#39;s the author of a game called RimWorld which is rife with the simple systems that lead to emergent gameplay I mentioned earlier. I&#39;ve held off on getting this book for years, honestly. I kept thinking it was going to be a how-to guide to game engines or something along those lines and that&#39;s not what I&#39;m looking for. I&#39;m much more interested in the philosphy of design. Turns out philosphy and psychology of game design is exactly what Tynan has written. I&#39;ve only just skimmed chapters at this point but I&#39;m so excited to dig into this material and continue to refine my understanding of humans, their needs, and how to serve them better as a software engineer and developer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>I don&#39;t like writing code...</title>
-		<link href="https://401matthall.com/posts/i_dont_like_writing_code/"/>
+		<link href="https://401matthall.com/posts/i-dont-like-writing-code/"/>
 		<updated>2024-02-10T00:00:00Z</updated>
-		<id>https://401matthall.com/posts/i_dont_like_writing_code/</id>
+		<id>https://401matthall.com/posts/i-dont-like-writing-code/</id>
 		<content type="html">&lt;p&gt;I&#39;ve been struggling with this thought for a &lt;em&gt;long&lt;/em&gt; time. I&#39;ve been convinced that I don&#39;t like writing code. Perhaps, I&#39;m not &lt;em&gt;meant&lt;/em&gt; to write code. Other people seem to be so much more prolific at it. They generate reams of code and move through their work at a good clip. Observationally, I&#39;m the &#39;problem&#39;, right?&lt;/p&gt;
 &lt;p&gt;Maybe. &lt;em&gt;Maybe.&lt;/em&gt; However, upon some recent reflection I don&#39;t think I am. I&#39;m not sure there &lt;em&gt;is&lt;/em&gt; a problem.&lt;/p&gt;
 &lt;p&gt;I finally decided I don&#39;t like writing code like other people I know. In my previous post I noted that I find I often think obliquely compared to my coworkers. This has a direct impact on how I think about my code. I wrestle with my code, I struggle to surface clarity as much as possible in my code. If this sounds like an attempt at a brag it&#39;s not even remotely that. It&#39;s my thought process while I&#39;m working.&lt;/p&gt;
@@ -29,9 +40,9 @@
 	
 	<entry>
 		<title>It&#39;s the cognition, stupid.</title>
-		<link href="https://401matthall.com/posts/its_the_cognition_stupid/"/>
+		<link href="https://401matthall.com/posts/its-the-cognition-stupid/"/>
 		<updated>2023-01-30T00:00:00Z</updated>
-		<id>https://401matthall.com/posts/its_the_cognition_stupid/</id>
+		<id>https://401matthall.com/posts/its-the-cognition-stupid/</id>
 		<content type="html">&lt;p&gt;I encounter many wonderful, helpful people in my day-to-day. They love to share productivity tips and I&#39;m always happy to hear them. I think on occasion people are offended to find out I haven&#39;t implemented &lt;em&gt;any&lt;/em&gt; of their ideas or suggestions. My peers seem to be confused when I haven&#39;t adopted the latest shortcut, key-combo heavy IDE or Vim or Emacs (I&#39;m absolutely not having an Emacs v Vim conversation). I&#39;m always fascinated by how much focus is placed on physical &lt;em&gt;action&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;So many people try to help under the impression that my primary struggle is the speed at which I can get information from my brain to my finger tips/code editor. In my case, the limitation isn&#39;t the speed at which I can type syntax. In fact, often times taking the time to type all of the syntax including the boilerplate helps me to focus my thoughts. It&#39;s taken me a long time to start to understand how differently I think compared to my peers. I&#39;m not slow-witted, I don&#39;t think slow. I do organize my thoughts slower than most people. This isn&#39;t slow &lt;em&gt;thinking&lt;/em&gt;, however. This isn&#39;t a lack of articulation or practice in communication. It&#39;s a deliberate exhaustive effort to organize my thoughts before I communicate them to avoid confusion for myself and for my audience, even if that audience is only my code editor. Incomplete thoughts aren&#39;t thoughts at all for me. They&#39;re fragments I don&#39;t know what to do with and the effort of hanging on to an unintegrated thought is cognitively expensive. This process is, in fact, work for me. The compulsion to integrate the thought into my existing framework is overwhelming.&lt;/p&gt;
 &lt;p&gt;I&#39;m not failing to type syntax because I don&#39;t understand the concept. Rather, I haven&#39;t attached all the floating pieces of data to an existing node yet and I&#39;m trying not to lose them. Once everything is connected to an existing point of information I can proceed with the next step which is usually speaking or typing. While I often appreciate the attempts to be helpful the help often fails to address the point of conflict or &#39;slowness&#39;, my brain, not my code editor.&lt;/p&gt;
@@ -43,9 +54,9 @@
 	
 	<entry>
 		<title>First!</title>
-		<link href="https://401matthall.com/posts/first_post/"/>
+		<link href="https://401matthall.com/posts/first-post/"/>
 		<updated>2023-01-28T00:00:00Z</updated>
-		<id>https://401matthall.com/posts/first_post/</id>
+		<id>https://401matthall.com/posts/first-post/</id>
 		<content type="html">&lt;p&gt;First posts are the worst. They&#39;re the worst to write. They&#39;re the worst to read. They&#39;re usually brimming with enthusiam for the New Year because when else does someone start a blog or write a second First Post. Ugh.&lt;/p&gt;
 &lt;p&gt;I&#39;m not going to do that to you. I&#39;m not going to do that to me. I want to give informal writing, with an attempt at doing so regularly, a try. I want somewhere to put my thoughts and opinions on things. I want somewhere to excercise my thoughts. That&#39;s really what I find writing useful for. Testing, challenging, clarifying my thoughts.&lt;/p&gt;
 &lt;p&gt;Annnndd we nearly wandered back into the pretentious part of First Posts. That was close. When did we stop adding &lt;em&gt;two&lt;/em&gt; spaces after closing punctuation in a sentence? I miss that other space.&lt;/p&gt;
