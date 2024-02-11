@@ -7,8 +7,8 @@
   "googleverification": "fytLKQs-Ev-WF_tfe7qXKdtht7emwAKbeeV3a_HuT7s",
   "feed": {
     "subtitle": "401matthall's blerg.",
-    "path": "/feed/",
-    "url": "https://401matthall.com/feed/"
+    "path": "/feed.xml",
+    "url": "https://401matthall.com/feed.xml"
   },
   "jsonfeed": {
     "path": "/feed.json",

@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 {% set maxPosts = collections.posts.length | min(3) %}
-<h2>Updates</h2>
+<h2>Most Recent</h2>
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
