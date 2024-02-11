@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-I play *a lot* of computer games. I'm not a 'mainstream' gamer but I play *a lot* of video games. I have literally spent thousands of hours playing games. Particularlly the ones that are made up of simple, clear systems that allow for [emergent gameplay](https://en.wikipedia.org/wiki/Emergent_gameplay). I love the systems in simulations. I love tinkering and modding those games to push the systems to their limits. I love watching systems interact with each other. Sometimes I think of it as a digital ant farm.
+I play *a lot* of computer games. I'm not a 'mainstream' gamer but I play *a lot* of computer games. I have literally spent thousands of hours playing games. Particularlly the ones that are made up of simple, clear systems that allow for [emergent gameplay](https://en.wikipedia.org/wiki/Emergent_gameplay). I love the systems in simulations. I love tinkering and modding those games to push the systems to their limits. I love watching systems interact with each other. Sometimes I think of it as a digital ant farm.
 
 At some point the, obvious-in-hindsight, idea occurs to me that game design and application design borrow from each other heavily. There's probably a *heap* of value to be gained by understanding game design. Like many software developers and engineers I know, I got into software to create things. Simulated systems and games were definitely on that list. I simply never studied game design before. To that point, I've barely scratched the surface of studying application design.
 
