@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>401matthall</title>
+	<subtitle>401matthall&#39;s blerg.</subtitle>
+	
+	<link href="https://401matthall.com/feed.xml" rel="self"/>
+	<link href="https://401matthall.com/"/>
+	<updated>2024-02-10T00:00:00Z</updated>
+	<id></id>
+	<author>
+		<name>Matt Hall</name>
+		<email>401matthall@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>I don&#39;t like writing code...</title>
+		<link href="https://401matthall.com/posts/i_dont_like_writing_code/"/>
+		<updated>2024-02-10T00:00:00Z</updated>
+		<id>https://401matthall.com/posts/i_dont_like_writing_code/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been struggling with this thought for a &lt;em&gt;long&lt;/em&gt; time. I&#39;ve been convinced that I don&#39;t like writing code. Perhaps, I&#39;m not &lt;em&gt;meant&lt;/em&gt; to write code. Other people seem to be so much more prolific at it. They generate reams of code and move through their work at a good clip. Observationally, I&#39;m the &#39;problem&#39;, right?&lt;/p&gt;
+&lt;p&gt;Maybe. &lt;em&gt;Maybe.&lt;/em&gt; However, upon some recent reflection I don&#39;t think I am. I&#39;m not sure there &lt;em&gt;is&lt;/em&gt; a problem.&lt;/p&gt;
+&lt;p&gt;I finally decided I don&#39;t like writing code like other people I know. In my previous post I noted that I find I often think obliquely compared to my coworkers. This has a direct impact on how I think about my code. I wrestle with my code, I struggle to surface clarity as much as possible in my code. If this sounds like an attempt at a brag it&#39;s not even remotely that. It&#39;s my thought process while I&#39;m working.&lt;/p&gt;
+&lt;p&gt;When I write code I try to do a number of things: solve the stated problem (usually from a trouble ticket), make my changes simple to understand for someone else, and make my changes simple to change in the future. I actually consider the last two items far more important than the first. This is because I work on legacy projects. Projects that have been around for 10 years or more. Projects with geological layers of code. If you&#39;ve worked in a project like this before you already know what I&#39;m talking about. If you haven&#39;t worked in a project like this don&#39;t worry you will and it&#39;s a Learning Experience.&lt;/p&gt;
+&lt;p&gt;Legacy projects, in my experience, are all about maintenance. Code that&#39;s been fine and untouched for six years is, without warning, now failing in the most absurd way and it&#39;s not obvious why. It turns out what should&#39;ve have been an unrelated change in another service affected the outcome of a calculation in the six year old code because they were coupled in an obscure way. After hours of work you find it, untangle it, and decouple those two pieces of code. Why were they coupled in the first place? Expediency, inexperience, inattention? All valid, it happens. It is nearly impossible to anticipate how code will be used in the future. I&#39;m not working to future-proof my code, I&#39;m working to make it simple to see how my code works and make it simple to change. The idea that Change is the only constant in software is becoming my personal mantra.&lt;/p&gt;
+&lt;p&gt;Maybe I do like writing code. I love building rules that define how a thing works and then codifying those rules into whatever language I&#39;m working in. I love when my codified rules are simple, as simple I can make them. I love when for just a few minutes there&#39;s a moment of clarity in my mind and the code on my screen captures that. I love when I come back to code I&#39;ve written years prior and it&#39;s still clear what it does and how I can change it, not because I &lt;em&gt;remember&lt;/em&gt; the code but because it&#39;s as simple as I could make it at the time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I love writing code.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>It&#39;s the cognition, stupid.</title>
+		<link href="https://401matthall.com/posts/its_the_cognition_stupid/"/>
+		<updated>2023-01-30T00:00:00Z</updated>
+		<id>https://401matthall.com/posts/its_the_cognition_stupid/</id>
+		<content type="html">&lt;p&gt;I encounter many wonderful, helpful people in my day-to-day. They love to share productivity tips and I&#39;m always happy to hear them. I think on occasion people are offended to find out I haven&#39;t implemented &lt;em&gt;any&lt;/em&gt; of their ideas or suggestions. My peers seem to be confused when I haven&#39;t adopted the latest shortcut, key-combo heavy IDE or Vim or Emacs (I&#39;m absolutely not having an Emacs v Vim conversation). I&#39;m always fascinated by how much focus is placed on physical &lt;em&gt;action&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;So many people try to help under the impression that my primary struggle is the speed at which I can get information from my brain to my finger tips/code editor. In my case, the limitation isn&#39;t the speed at which I can type syntax. In fact, often times taking the time to type all of the syntax including the boilerplate helps me to focus my thoughts. It&#39;s taken me a long time to start to understand how differently I think compared to my peers. I&#39;m not slow-witted, I don&#39;t think slow. I do organize my thoughts slower than most people. This isn&#39;t slow &lt;em&gt;thinking&lt;/em&gt;, however. This isn&#39;t a lack of articulation or practice in communication. It&#39;s a deliberate exhaustive effort to organize my thoughts before I communicate them to avoid confusion for myself and for my audience, even if that audience is only my code editor. Incomplete thoughts aren&#39;t thoughts at all for me. They&#39;re fragments I don&#39;t know what to do with and the effort of hanging on to an unintegrated thought is cognitively expensive. This process is, in fact, work for me. The compulsion to integrate the thought into my existing framework is overwhelming.&lt;/p&gt;
+&lt;p&gt;I&#39;m not failing to type syntax because I don&#39;t understand the concept. Rather, I haven&#39;t attached all the floating pieces of data to an existing node yet and I&#39;m trying not to lose them. Once everything is connected to an existing point of information I can proceed with the next step which is usually speaking or typing. While I often appreciate the attempts to be helpful the help often fails to address the point of conflict or &#39;slowness&#39;, my brain, not my code editor.&lt;/p&gt;
+&lt;p&gt;Thinking is a from-scratch exercise most of the time, at least it is for me. In order to ponder a thing I have to build up a framework either from my memory or my immediate environment (what I can read, hear someone saying, etc) this construction of a framework often takes time and effort on my part and it may appear as though I&#39;m not engaged in the immediate goings on (to some degree, I&#39;m not) but without taking the time to do this I simply can&#39;t participate in a conversation, meeting, pairing-session, etc.&lt;/p&gt;
+&lt;p&gt;What does it mean for how &lt;em&gt;I&lt;/em&gt; work and how I&#39;ll work in the future? It means I probably won&#39;t try to learn new physical patterns to speed up my work. I find the majority of my work is cognitive. Additionally, I&#39;m not certain working faster is to my benefit and probably not to the benefit of whatever I&#39;m working on.&lt;/p&gt;
+&lt;p&gt;Does this mean that shortcuts and key-combos are bad? Of course, that&#39;s what it means. Shortcut and key-combo users are bad people, they don&#39;t give their pets the love and attention they need, and they chew gum while talking in a conference call.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>First!</title>
+		<link href="https://401matthall.com/posts/first_post/"/>
+		<updated>2023-01-28T00:00:00Z</updated>
+		<id>https://401matthall.com/posts/first_post/</id>
+		<content type="html">&lt;p&gt;First posts are the worst. They&#39;re the worst to write. They&#39;re the worst to read. They&#39;re usually brimming with enthusiam for the New Year because when else does someone start a blog or write a second First Post. Ugh.&lt;/p&gt;
+&lt;p&gt;I&#39;m not going to do that to you. I&#39;m not going to do that to me. I want to give informal writing, with an attempt at doing so regularly, a try. I want somewhere to put my thoughts and opinions on things. I want somewhere to excercise my thoughts. That&#39;s really what I find writing useful for. Testing, challenging, clarifying my thoughts.&lt;/p&gt;
+&lt;p&gt;Annnndd we nearly wandered back into the pretentious part of First Posts. That was close. When did we stop adding &lt;em&gt;two&lt;/em&gt; spaces after closing punctuation in a sentence? I miss that other space.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
