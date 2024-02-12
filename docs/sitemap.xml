@@ -47,6 +47,11 @@
   </url>
   
   <url>
+    <loc>https://401matthall.com/tags/first/</loc>
+    <lastmod>2023-01-30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://401matthall.com/tags/being-me/</loc>
     <lastmod>2023-01-30</lastmod>
   </url>
@@ -62,16 +67,6 @@
   </url>
   
   <url>
-    <loc>https://401matthall.com/tags/first/</loc>
-    <lastmod>2023-01-30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://401matthall.com/</loc>
-    <lastmod>2023-01-30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://401matthall.com/posts/i-dont-like-writing-code/</loc>
     <lastmod>2024-02-10</lastmod>
   </url>
@@ -79,5 +74,15 @@
   <url>
     <loc>https://401matthall.com/posts/game-design-as-software-design/</loc>
     <lastmod>2024-02-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/</loc>
+    <lastmod>2024-02-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://401matthall.com/stories/</loc>
+    <lastmod>2024-02-12</lastmod>
   </url>
 </urlset>
