@@ -1,0 +1,16 @@
+<div reversed class="row postlist" style="counter-reset: start-from {{ (storylistCounter or storylist.length) + 1 }}">
+{% for story in storylist | reverse %}
+  <div class="col-md-4 p-3 p-md-3 mb-3 postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ story.url | url }}" class="postlist-link">
+    <!--<img class="images img-fluid blur" width="360" height="200" src="{{ post.data.favicon }}"/>-->
+    <h4 class="mt-3">
+    {% if story.data.title %}{{ story.data.title }}{% else %}<code>{{ story.url }}</code>{% endif %}</h3>
+    <time class="postlist-date" datetime="{{ story.date | htmlDateString }}">{{ story.date | readableDate }}</time><br/>
+    <p>{{ story.data.description }}</p></a>
+    {% for tag in story.data.tags | filterTagList %}
+      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
