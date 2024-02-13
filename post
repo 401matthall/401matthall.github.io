@@ -7,4 +7,4 @@ git pull
 # check out new post branch with pass variable as branch name
 git checkout -b "post/$branchname"
 # create new file with branch name in /posts directory
-touch ./posts/$branchname
+touch ./posts/$branchname.md
