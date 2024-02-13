@@ -8,3 +8,5 @@ git pull
 git checkout -b "story/$branchname"
 # create new file with branch name in /stories directory
 touch ./stories/$branchname.md
+# add initial layout to story
+echo -e "---\ntitle: \ndescription: \ndate: \ntags: \nlayout: layouts/post.njk\n---\n" >> ./stories/$branchname.md
