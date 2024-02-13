@@ -5,12 +5,30 @@
 	
 	<link href="https://401matthall.com/feed.xml" rel="self"/>
 	<link href="https://401matthall.com/"/>
-	<updated>2024-02-11T00:00:00Z</updated>
+	<updated>2024-02-12T00:00:00Z</updated>
 	<id></id>
 	<author>
 		<name>Matt Hall</name>
 		<email>401matthall@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Why am I struggling?</title>
+		<link href="https://401matthall.com/posts/why-am-i-struggling/"/>
+		<updated>2024-02-12T00:00:00Z</updated>
+		<id>https://401matthall.com/posts/why-am-i-struggling/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been really struggling to get into the right head space to complete a ticket at work. It&#39;s not a terribly complicated ask. It&#39;s just an export of a flat-file with very clear specs for 5 record types. It&#39;ll need to be connected to the front-end GUI so a user can trigger the export and select what records should populate the flat-file. I have been struggling for days to get into some kind of groove with this thing. What is it about &lt;em&gt;starting&lt;/em&gt; that is so damn difficult?&lt;/p&gt;
+&lt;p&gt;It finally hit me this evening. Like standing on a dark stage when the single follow light illuminates and it&#39;s pointed right at your face.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ZAP&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Oh... I can&#39;t iterate on this.&lt;/p&gt;
+&lt;p&gt;Why can&#39;t I iterate on this?&lt;/p&gt;
+&lt;p&gt;I don&#39;t have a single meaningful test for this code.&lt;/p&gt;
+&lt;p&gt;I don&#39;t even have a completed front-end to back-end loop that I could test manually.&lt;/p&gt;
+&lt;p&gt;If I can&#39;t verify my progress how can I move onto the next piece, method, module, etc. with any confidence that all my previous work... Works? I know better than this. There&#39;s not a chance that I&#39;m going to build the needed test scaffolding around this service and it&#39;s related views. Our application is written in such a way that makes meaningful testing &lt;em&gt;extremely&lt;/em&gt; costly to do and maintain. So, for the most part, we don&#39;t do it. I&#39;ll wait a few minutes for those of you who&#39;ve started to convulse or swear violently to work through that. It&#39;s a choice and we pay it&#39;s costs every day. At any rate, I &lt;em&gt;am&lt;/em&gt; in a position to short-cycle the remaining smaller methods that&#39;ll do the majority of the work in this service. Then I can wire up this backend service to the GUI and start seeing a file be generated. Then I can finally start to validate the work I&#39;ve done thus far.&lt;/p&gt;
+&lt;p&gt;This probably would&#39;ve been something I noticed &lt;em&gt;much&lt;/em&gt; sooner if test-driven-development was how my current company worked. It&#39;s not and the upfront cost to change the pattern is more than is willing to be paid.&lt;/p&gt;
+&lt;p&gt;Testing, in any form, is the crux of developing confidence in your work. The structure and focus that test-drive-development brings to your team and your code is extremely valuable. If it&#39;s not available to you all hope is not lost. You can write tests after the fact, with a known costs and skew because the test did not define the initial work. You can test manually in most cases. It&#39;s tedious and we&#39;re fallible but having confidence around the work you ship is worth it.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Game Design as it applies to Application Design</title>
