@@ -9,4 +9,6 @@ git checkout -b "post/$branchname"
 # create new file with branch name in /posts directory
 touch ./posts/$branchname.md
 # add initial layout to post
-echo -e "---\ntitle: \ndescription: \ndate: \ntags: \nlayout: layouts/post.njk\n---\n" >> ./posts/$branchname.md
+echo -e "---\ntitle: \ndescription: \ndate: \ntags: \nlayout: layouts/post.njk\n---\n\n" >> ./posts/$branchname.md
+# open new post in vs-code
+code ./posts/$branchname.md
